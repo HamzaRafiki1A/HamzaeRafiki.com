@@ -16,6 +16,9 @@ a, button {
   cursor: pointer;
   outline: 0 none;
 }
+.d{
+   text-align: center;
+}
 h4{
   font-style: oblique;
   font-size: larger;
